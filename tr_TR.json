@@ -1,0 +1,53 @@
+{
+  "/WORDS": null,
+  "page": "sayfa",
+  "member": "üye",
+  "reason": "sebep",
+
+  "/CATEGORIES": null,
+  "user": "kullanıcı",
+  "moderation": "moderasyon",
+
+  "/OTHERS": null,
+  "something-gone-wrong": "Bir şeyler ters gitti!",
+  "permission-error": "Bu komudu kullanabilmek için `{perm}` yetkisine ihtiyacın var.",
+
+  "/PERMISSIONS": null,
+  "KICK_MEMBERS": "Üyeleri At",
+  "BAN_MEMBERS": "Üyeleri Yasakla",
+  "ADMINISTRATOR": "Yönetici",
+
+  "/HELP": null,
+  "help-name": "yardim",
+  "help-description": "Yardım menüsünü açar",
+  "help-page": "Sayfa numarası 1-{0}",
+  "help-title": "Eve Yardım Menüsü",
+  "help-support-server": "Destek Sunucum",
+  "help-invite": "Davet Et",
+  "help-description-others": "**[] = gerekli** | **() = isteğe bağlı**",
+
+  "/BAN": null,
+  "ban-name": "yasakla",
+  "ban-description": "Üye yasaklar",
+  "ban-member": "Yasaklanacak üye",
+  "ban-reason": "Yasaklama sebebi",
+  "ban-you-cant": "Bu kişiyi yasaklayamazsın!",
+  "ban-bot-cant": "Bu kişiyi yasaklayamam!",
+  "ban-success": "{user} adlı üye yasaklandı.",
+  "ban-error": "Üye yasaklanamadı!",
+
+  "/KICK": null,
+  "kick-name": "at",
+  "kick-description": "Üye atar",
+  "kick-member": "Atılacak üye",
+  "kick-reason": "Atma sebebi",
+  "kick-you-cant": "Bu kişiyi atamazsın!",
+  "kick-bot-cant": "Bu kişiyi atamam!",
+  "kick-success": "{user} adlı üye atıldı.",
+  "kick-error": "Üye atılamadı!",
+
+  "/LANG": null,
+  "lang-already": "Zaten {lang} dilindeyim!",
+  "lang-invalid": "{lang} dili geçersiz!",
+  "lang-success": "Artık türkçe konuşuyorum!"
+}

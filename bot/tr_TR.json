@@ -3,6 +3,7 @@
   "page": "sayfa",
   "member": "üye",
   "reason": "sebep",
+  "amount": "miktar",
 
   "/CATEGORIES": null,
   "user": "kullanıcı",
@@ -16,6 +17,7 @@
   "KICK_MEMBERS": "Üyeleri At",
   "BAN_MEMBERS": "Üyeleri Yasakla",
   "ADMINISTRATOR": "Yönetici",
+  "MANAGE_MESSAGES": "Mesajları Yönet",
 
   "/HELP": null,
   "help-name": "yardim",
@@ -49,5 +51,14 @@
   "/LANG": null,
   "lang-already": "Zaten {lang} dilindeyim!",
   "lang-invalid": "{lang} dili geçersiz!",
-  "lang-success": "Artık türkçe konuşuyorum!"
+  "lang-success": "Artık türkçe konuşuyorum!",
+
+  "/PURGE": null,
+  "purge-name": "temizle",
+  "purge-description": "Kanaldaki mesajları temizler",
+  "purge-amount": "Kanaldan temizlenecek mesaj miktarı",
+  "purge-arg": "Miktar bir ile beş yüz arasında olmalı!",
+  "purge-old": "14 günden eski mesajları silemem.",
+  "purge-permission": "Mesajları silmek için 'Mesajları Yönet' iznim yok!",
+  "purge-success": "Başarıyla {amount} adet mesaj temizlendi!"
 }

@@ -3,6 +3,7 @@
   "page": "page",
   "member": "member",
   "reason": "reason",
+  "amount": "amount",
 
   "/CATEGORIES": null,
   "user": "user",
@@ -16,6 +17,7 @@
   "KICK_MEMBERS": "Kick Members",
   "BAN_MEMBERS": "Ban Members",
   "ADMINISTRATOR": "Administrator",
+  "MANAGE_MESSAGES": "Manage Messages",
 
   "/HELP": null,
   "help-name": "help",
@@ -49,5 +51,14 @@
   "/LANG": null,
   "lang-already": "I am already in {lang} language!",
   "lang-invalid": "Language {lang} is invalid!",
-  "lang-success": "Now i am speaking english!"
+  "lang-success": "Now i am speaking english!",
+
+  "/PURGE": null,
+  "purge-name": "purge",
+  "purge-description": "Purges messages from channel",
+  "purge-amount": "Amount of the messages that they will be purged",
+  "purge-arg": "The amount must be between one and five hundred!",
+  "purge-old": "I can't purge messages that they are older than 14 days.",
+  "purge-permission": "I don't have `Manage Messages` permission to purge messages!",
+  "purge-success": "Successfully {amount} message purged!"
 }

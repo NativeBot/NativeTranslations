@@ -11,7 +11,11 @@
 
   "/OTHERS": null,
   "something-gone-wrong": "Bir şeyler ters gitti!",
-  "permission-error": "Bu komudu kullanabilmek için `{perm}` yetkisine ihtiyacın var.",
+  "permission-error": "Bu komudu kullanabilmek için `{perm}` yetkisine ihtiyacın var!",
+  "permission-error1": "Bu komudu kullanabilmen için `{perm}` yetkisine ihtiyacım var!",
+  "cooldown-error-user": "Bu komudu tekrar kullanabilmek için `{seconds}sn` saniye beklemelisin!",
+  "cooldown-error-server": "Sunucudaki kullanıcıların bu komudu tekrar kullanabilmesi için `{seconds}sn` saniye beklemelisin!",
+  "cooldown-error-global": "Bot kullanıcılarının bu komudu tekrar kullanabilmesi için `{seconds}sn` beklemelisiniz!",
 
   "/PERMISSIONS": null,
   "KICK_MEMBERS": "Üyeleri At",
@@ -60,5 +64,8 @@
   "purge-arg": "Miktar bir ile beş yüz arasında olmalı!",
   "purge-old": "14 günden eski mesajları silemem.",
   "purge-permission": "Mesajları silmek için 'Mesajları Yönet' iznim yok!",
-  "purge-success": "Başarıyla {amount} adet mesaj temizlendi!"
+  "purge-success": "Başarıyla {amount} adet mesaj temizlendi!",
+
+  "BAN MESSAGE AUTHOR": null,
+  "ban-interaction-name": "Mesaj Sahibini Yasakla"
 }

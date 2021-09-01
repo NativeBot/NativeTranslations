@@ -12,6 +12,10 @@
   "/OTHERS": null,
   "something-gone-wrong": "Something gone wrong!",
   "permission-error": "You need `{perm}` permission to use this command!",
+  "permission-error1": "I need `{perm}` permission to let you use this command!",
+  "cooldown-error-user": "You need to wait `{seconds}s` to use this command again!",
+  "cooldown-error-server": "The server should wait `{seconds}s` to use this command again!",
+  "cooldown-error-global": "The bot users should wait `{seconds}s` to use this command again!",
 
   "/PERMISSIONS": null,
   "KICK_MEMBERS": "Kick Members",
@@ -60,5 +64,8 @@
   "purge-arg": "The amount must be between one and five hundred!",
   "purge-old": "I can't purge messages that they are older than 14 days.",
   "purge-permission": "I don't have `Manage Messages` permission to purge messages!",
-  "purge-success": "Successfully {amount} message purged!"
+  "purge-success": "Successfully {amount} message purged!",
+
+  "BAN MESSAGE AUTHOR": null,
+  "ban-interaction-name": "Ban Message Author"
 }

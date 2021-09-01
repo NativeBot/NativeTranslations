@@ -4,6 +4,55 @@
   "member": "üye",
   "reason": "sebep",
   "amount": "miktar",
+  "Invalid": "Geçersiz",
+  "Empty": "Boş",
+  "None": "Yok",
+  "Profile": "Profil",
+  "Status": "Durum",
+  "Devices": "Cihazlar",
+  "Badges": "Rozetler",
+  "Nickname": "Takma Ad",
+  "Server Join Date": "Sunucuya Katılma Tarihi",
+  "Roles": "Roller",
+  "Account Creation Date": "Hesap Oluşturma Tarihi",
+  "User Information": "Kullanıcı Bilgisi",
+  "Membership Information": "Üye Bilgisi",
+  "status-offline": "<:eve_offline:882701395218800690>",
+  "status-invisible": "<:eve_offline:882701395218800690>",
+  "status-online": "<:eve_online:882701344551620619>",
+  "status-idle": "<:eve_idle:882701429276540939>",
+  "status-dnd": "<:eve_dnd:882709717229658122>",
+  "client-web": "Web",
+  "client-mobile": "Mobil <:eve_mobile:882712337629454346>",
+  "client-desktop": "Masaüstü <:eve_desktop:882712825057910825>",
+  "bot-client": "Bot Hesabı",
+  "month-1": "Ocak",
+  "month-2": "Şubat",
+  "month-3": "Mart",
+  "month-4": "Nisan",
+  "month-5": "Mayıs",
+  "month-6": "Haziran",
+  "month-7": "Temmuz",
+  "month-8": "Ağustos",
+  "month-9": "Eylül",
+  "month-10": "Ekim",
+  "month-11": "Kasım",
+  "month-12": "Aralık",
+
+  "/USER FLAGS": null,
+  "DISCORD_EMPLOYEE": "Discord Çalışanı",
+  "PARTNERED_SERVER_OWNER": "Partner Sunucu Sahibisi",
+  "HYPESQUAD_EVENTS": "Hypesquad Olayları",
+  "BUGHUNTER_LEVEL_1": "Hata Avcısı Seviye 1",
+  "HOUSE_BRAVERY": "Bravery",
+  "HOUSE_BRILLIANCE": "Brilliance",
+  "HOUSE_BALANCE": "Balance",
+  "EARLY_SUPPORTER": "Erken Dönem Destekçisi",
+  "TEAM_USER": "Takım Üyesi",
+  "BUGHUNTER_LEVEL_2": "Hata Avcısı Seviye 2",
+  "VERIFIED_BOT": "Onaylı Bot",
+  "EARLY_VERIFIED_BOT_DEVELOPER": "Erken Onaylı Bot Geliştiricisi",
+  "DISCORD_CERTIFIED_MODERATOR": "Discord Sertifikalı Moderatör",
 
   "/CATEGORIES": null,
   "user": "kullanıcı",
@@ -16,6 +65,7 @@
   "cooldown-error-user": "Bu komudu tekrar kullanabilmek için `{seconds}sn` saniye beklemelisin!",
   "cooldown-error-server": "Sunucudaki kullanıcıların bu komudu tekrar kullanabilmesi için `{seconds}sn` saniye beklemelisin!",
   "cooldown-error-global": "Bot kullanıcılarının bu komudu tekrar kullanabilmesi için `{seconds}sn` beklemelisiniz!",
+  "requested-by-footer": "{user} tarafından istendi",
 
   "/PERMISSIONS": null,
   "KICK_MEMBERS": "Üyeleri At",
@@ -66,6 +116,23 @@
   "purge-permission": "Mesajları silmek için 'Mesajları Yönet' iznim yok!",
   "purge-success": "Başarıyla {amount} adet mesaj temizlendi!",
 
+
+
+
+  "// - INTERACTIONS -": null,
+
+
+
+
   "BAN MESSAGE AUTHOR": null,
-  "ban-interaction-name": "Mesaj Sahibini Yasakla"
+  "ban-interaction-name": "Mesaj Sahibini Yasakla",
+  "ban-interaction-reason": "Kart ile yasaklandı. Yetkili: {staff}",
+
+  "KICK MESSAGE AUTHOR": null,
+  "kick-interaction-name": "Mesaj Sahibini At",
+  "kick-interaction-reason": "Kart ile atıldı. Yetkili: {staff}",
+
+  "USER INFO": null,
+  "user-info-interaction-name": "Kullanıcı Bilgisi",
+  "user-info-date": "({days} gün, {hours} saat, {minutes} dakika, {seconds} saniye önce)"
 }

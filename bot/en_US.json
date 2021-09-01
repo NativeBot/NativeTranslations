@@ -4,6 +4,55 @@
   "member": "member",
   "reason": "reason",
   "amount": "amount",
+  "Invalid": "Invalid",
+  "Empty": "Empty",
+  "None": "None",
+  "Profile": "Profile",
+  "Status": "Status",
+  "Devices": "Devices",
+  "Badges": "Badges",
+  "Nickname": "Nickname",
+  "Server Join Date": "Server Join Date",
+  "Roles": "Roles",
+  "Account Creation Date": "Account Creation Date",
+  "User Information": "User Information",
+  "Membership Information": "Membership Information",
+  "status-offline": "<:eve_offline:882701395218800690>",
+  "status-invisible": "<:eve_offline:882701395218800690>",
+  "status-online": "<:eve_online:882701344551620619>",
+  "status-idle": "<:eve_idle:882701429276540939>",
+  "status-dnd": "<:eve_dnd:882709717229658122>",
+  "client-web": "Web",
+  "client-mobile": "Mobile <:eve_mobile:882712337629454346>",
+  "client-desktop": "Desktop <:eve_desktop:882712825057910825>",
+  "bot-client": "Bot Client",
+  "month-1": "January",
+  "month-2": "February",
+  "month-3": "March",
+  "month-4": "April",
+  "month-5": "May",
+  "month-6": "June",
+  "month-7": "July",
+  "month-8": "August",
+  "month-9": "September",
+  "month-10": "October",
+  "month-11": "November",
+  "month-12": "December",
+
+  "/USER FLAGS": null,
+  "DISCORD_EMPLOYEE": "Discord Employee",
+  "PARTNERED_SERVER_OWNER": "Partnered Server Owner",
+  "HYPESQUAD_EVENTS": "Hypesquad Events",
+  "BUGHUNTER_LEVEL_1": "Bughunter Level 1",
+  "HOUSE_BRAVERY": "Bravery",
+  "HOUSE_BRILLIANCE": "Brilliance",
+  "HOUSE_BALANCE": "Balance",
+  "EARLY_SUPPORTER": "Early Supporter",
+  "TEAM_USER": "Team User",
+  "BUGHUNTER_LEVEL_2": "Bughunter Level 2",
+  "VERIFIED_BOT": "Verified Bot",
+  "EARLY_VERIFIED_BOT_DEVELOPER": "Early Verified Bot Developer",
+  "DISCORD_CERTIFIED_MODERATOR": "Discord Certified Moderator",
 
   "/CATEGORIES": null,
   "user": "user",
@@ -16,6 +65,7 @@
   "cooldown-error-user": "You need to wait `{seconds}s` to use this command again!",
   "cooldown-error-server": "The server should wait `{seconds}s` to use this command again!",
   "cooldown-error-global": "The bot users should wait `{seconds}s` to use this command again!",
+  "requested-by-footer": "Requested by {user}",
 
   "/PERMISSIONS": null,
   "KICK_MEMBERS": "Kick Members",
@@ -66,6 +116,23 @@
   "purge-permission": "I don't have `Manage Messages` permission to purge messages!",
   "purge-success": "Successfully {amount} message purged!",
 
+
+
+
+  "// - INTERACTIONS -": null,
+
+
+
+
   "BAN MESSAGE AUTHOR": null,
-  "ban-interaction-name": "Ban Message Author"
+  "ban-interaction-name": "Ban Message Author",
+  "ban-interaction-reason": "Banned with using context menu (Apps). Staff: {staff}",
+
+  "KICK MESSAGE AUTHOR": null,
+  "kick-interaction-name": "Kick Message Author",
+  "kick-interaction-reason": "Kicked with using context menu (Apps). Staff: {staff}",
+
+  "USER INFO": null,
+  "user-info-interaction-name": "User Info",
+  "user-info-date": "({days} days, {hours} hours, {minutes} minutes, {seconds} seconds ago)"
 }

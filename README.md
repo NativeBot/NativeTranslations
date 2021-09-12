@@ -1,2 +1,2 @@
-# EveTranslations
-Eve's translations!
+# NativeTranslations
+Native's translations!
